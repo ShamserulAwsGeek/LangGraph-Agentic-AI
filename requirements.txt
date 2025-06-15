@@ -1,5 +1,6 @@
 langgraph
 langchain
 langchain_community
-langhub
+langchainhub
 ipykernel
+langchain_groq
